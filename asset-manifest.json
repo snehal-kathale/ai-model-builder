@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-model-builder/static/css/main.db3235e8.css",
+    "main.js": "/ai-model-builder/static/js/main.81d02799.js",
+    "index.html": "/ai-model-builder/index.html",
+    "main.db3235e8.css.map": "/ai-model-builder/static/css/main.db3235e8.css.map",
+    "main.81d02799.js.map": "/ai-model-builder/static/js/main.81d02799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3235e8.css",
+    "static/js/main.81d02799.js"
+  ]
+}
