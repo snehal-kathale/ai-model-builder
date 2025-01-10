@@ -33,12 +33,12 @@ const Modal = ({ isOpen, onClose }) => {
 
     const newEntry = {
       name: formData.modelName,
-      id: `#${Math.floor(Math.random() * 10000000)}`, // Generating a random ID, adjust if necessary
+      id: `#${Math.floor(Math.random() * 10000000)}`,
       type: formData.modelType,
       description: formData.modelDescription,
       createdOn,
-      lastTrainedOn: createdOn, // Assuming the lastTrainedOn is the same as createdOn initially
-      status: "active", // Default status, adjust if needed
+      lastTrainedOn: createdOn,
+      status: "active",
     };
     const updatedTableData = [newEntry];
     localStorage.setItem("tableData", JSON.stringify(updatedTableData));
@@ -51,7 +51,7 @@ const Modal = ({ isOpen, onClose }) => {
   return (
     <div className="fixed inset-0 flex justify-center items-center bg-gray-500 bg-opacity-50">
       <div className="w-[439px] p-0 bg-white rounded-lg shadow-lg">
-        <div className="px-5 py-4 border-b border-blue-600 flex justify-between">
+        <div className="px-5 py-4 border-b border-grey-800 flex justify-between">
           <h2 className="text-black text-lg font-semibold ">
             Create new model
           </h2>

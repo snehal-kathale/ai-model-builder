@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { modelData } from "../constants/modelData";
+import { tableHeaders } from "../constants/tableConstant";
 
 export default function Frame({ onClick }) {
   const [data, setData] = useState(modelData);
@@ -48,16 +49,6 @@ export default function Frame({ onClick }) {
 
   const startIndex = (currentPage - 1) * rowsPerPage;
   const paginatedData = data.slice(startIndex, startIndex + rowsPerPage);
-
-  const tableHeaders = [
-    { label: "Model Name", key: "name", sortable: true },
-    { label: "Model Type", key: "type", sortable: true },
-    { label: "Description", key: "description", sortable: true },
-    { label: "Created On", key: "createdOn", sortable: true },
-    { label: "Last Trained On", key: "lastTrainedOn", sortable: true },
-    { label: "Status", key: "status", sortable: true },
-    { label: "Action", key: "action", sortable: false },
-  ];
 
   return (
     <div className="w-[100%] bg-white shadow-lg">

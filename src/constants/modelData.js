@@ -171,8 +171,3 @@ export const modelData = [
     status: "Active",
   },
 ];
-
-export const getTableDataFromStorage = () => {
-  const storedData = localStorage.getItem("tableData");
-  return storedData ? JSON.parse(storedData) : [];
-};

@@ -1,9 +1,9 @@
 import React from "react";
-import Frame from "./Table";
-import NavbarStyle from "./Header";
 import SideBar from "./Sidebar";
+import NavbarStyle from "./Header";
+import Frame from "./Table";
 
-const Box = ({ onOpenModal }) => {
+const LandingPage = ({ onOpenModal }) => {
   return (
     <div className="flex h-screen">
       <aside className="w-40% p-4 space-y-4 bg-white">
@@ -20,4 +20,4 @@ const Box = ({ onOpenModal }) => {
   );
 };
 
-export default Box;
+export default LandingPage;
