@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ai-model-builder/static/css/main.d1b06716.css",
+    "main.js": "/ai-model-builder/static/js/main.24094727.js",
+    "static/media/Notification.svg": "/ai-model-builder/static/media/Notification.616f5f4f0144869078268c8be88ed116.svg",
+    "static/media/company-logo.svg": "/ai-model-builder/static/media/company-logo.9582581cf4e78af47c359fb680560f95.svg",
+    "static/media/layers-round.svg": "/ai-model-builder/static/media/layers-round.13453774a7e2bb6d6a90c92dbe121117.svg",
+    "static/media/command.svg": "/ai-model-builder/static/media/command.e6dd015be507760948e47777d75b0c5d.svg",
+    "static/media/menu-2.svg": "/ai-model-builder/static/media/menu-2.e6909407c5c2599f51fab0ca02d2fa80.svg",
+    "static/media/1-menu.svg": "/ai-model-builder/static/media/1-menu.6b55d648e24d7987d0702abe02cb9a90.svg",
+    "static/media/setting.svg": "/ai-model-builder/static/media/setting.7a1008cbf61d3677167d6d954ade3751.svg",
+    "static/media/side-arrow.svg": "/ai-model-builder/static/media/side-arrow.5fdb176b727adae9b9a393df567a5baa.svg",
+    "static/media/next.svg": "/ai-model-builder/static/media/next.0a5e14b960c82c6fc2fb60bd5992bfae.svg",
+    "static/media/previous.svg": "/ai-model-builder/static/media/previous.9314182bd92a681264db5dbbb3036eed.svg",
+    "static/media/Filter.svg": "/ai-model-builder/static/media/Filter.0d6815cb5a30efe5e87f7313c7d0d5c6.svg",
+    "static/media/user.svg": "/ai-model-builder/static/media/user.af899a41ead7f4274d75852c5d0126cf.svg",
+    "static/media/calendar.svg": "/ai-model-builder/static/media/calendar.9e56d0915dfacd3e20d861152f041e0a.svg",
+    "index.html": "/ai-model-builder/index.html",
+    "static/media/task.svg": "/ai-model-builder/static/media/task.397574fcdd326c6ddea02a8a7b4630b2.svg",
+    "static/media/Outline-dots-vertical.svg": "/ai-model-builder/static/media/Outline-dots-vertical.ae0a76f9a4fdb187f945c7894490b749.svg",
+    "static/media/headersearch.svg": "/ai-model-builder/static/media/headersearch.02b69b4dfb7f07175b1fa20260d6c387.svg",
+    "static/media/Wishlist.svg": "/ai-model-builder/static/media/Wishlist.dcbc67583925a52fc7098549b52799e4.svg",
+    "static/media/sort-icons.svg": "/ai-model-builder/static/media/sort-icons.05f0e6179b255f2e7a36e8b9242801f0.svg",
+    "static/media/Search.svg": "/ai-model-builder/static/media/Search.69ff06db3f866f9264c787f3c4d9c576.svg",
+    "static/media/Outline-plus-sm.svg": "/ai-model-builder/static/media/Outline-plus-sm.1cafa3cbb3e5dfd7aef83c549b5cc3d6.svg",
+    "static/media/Outline-x.svg": "/ai-model-builder/static/media/Outline-x.497a3c0c9cdf592dd819aaf94da10d50.svg",
+    "main.d1b06716.css.map": "/ai-model-builder/static/css/main.d1b06716.css.map",
+    "main.24094727.js.map": "/ai-model-builder/static/js/main.24094727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b06716.css",
+    "static/js/main.24094727.js"
+  ]
+}
